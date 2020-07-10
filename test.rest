@@ -1,0 +1,5 @@
+### get root
+GET http://localhost:3000
+
+### get 404
+GET http://localhost:3000/test
