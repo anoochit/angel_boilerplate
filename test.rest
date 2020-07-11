@@ -1,5 +1,10 @@
-### get root
+### Get root
 GET http://localhost:3000
 
-### get 404
-GET http://localhost:3000/test
+### 
+GET http://localhost:3000/api/version
+
+
+### 
+POST http://localhost:3000/api/upload
+Content-Type: multipart/form-data

@@ -50,6 +50,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.3"
+  angel_mongo:
+    dependency: "direct main"
+    description:
+      name: angel_mongo
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.3"
   angel_route:
     dependency: transitive
     description:
@@ -71,6 +78,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.4.2"
+  bson:
+    dependency: transitive
+    description:
+      name: bson
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.3.2"
   charcode:
     dependency: transitive
     description:
@@ -127,6 +141,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "5.2.1"
+  fixnum:
+    dependency: transitive
+    description:
+      name: fixnum
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.10.11"
   glob:
     dependency: transitive
     description:
@@ -239,6 +260,27 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.7"
+  mongo_dart:
+    dependency: "direct main"
+    description:
+      name: mongo_dart
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.4.0"
+  mongo_dart_query:
+    dependency: transitive
+    description:
+      name: mongo_dart_query
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.4.1"
+  more:
+    dependency: transitive
+    description:
+      name: more
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.18.2"
   node_interop:
     dependency: transitive
     description:
@@ -267,6 +309,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.9.2"
+  pool:
+    dependency: transitive
+    description:
+      name: pool
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.4.0"
   quiver:
     dependency: transitive
     description:

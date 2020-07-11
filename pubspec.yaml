@@ -10,7 +10,8 @@ dependencies:
   path: ^1.7.0
   angel_framework: ^2.1.1
   angel_hot: ^2.0.6
-
+  angel_mongo: ^2.0.3
+  mongo_dart: ^0.4.0
   logging: ^0.11.4
 
 dev_dependencies:
